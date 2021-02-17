@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/var/www/Breaddit-Server/Breaddit/Breaddit.csproj": {}
+    "C:\\Users\\Ya'akov Goldberg\\Desktop\\Web Projects\\Web-Based-Projects-Team-5\\Breaddit.csproj": {}
   },
   "projects": {
-    "/var/www/Breaddit-Server/Breaddit/Breaddit.csproj": {
+    "C:\\Users\\Ya'akov Goldberg\\Desktop\\Web Projects\\Web-Based-Projects-Team-5\\Breaddit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/www/Breaddit-Server/Breaddit/Breaddit.csproj",
+        "projectUniqueName": "C:\\Users\\Ya'akov Goldberg\\Desktop\\Web Projects\\Web-Based-Projects-Team-5\\Breaddit.csproj",
         "projectName": "Breaddit",
-        "projectPath": "/var/www/Breaddit-Server/Breaddit/Breaddit.csproj",
-        "packagesPath": "/home/bitnami/.nuget/packages/",
-        "outputPath": "/var/www/Breaddit-Server/Breaddit/obj/",
+        "projectPath": "C:\\Users\\Ya'akov Goldberg\\Desktop\\Web Projects\\Web-Based-Projects-Team-5\\Breaddit.csproj",
+        "packagesPath": "C:\\Users\\Ya'akov Goldberg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ya'akov Goldberg\\Desktop\\Web Projects\\Web-Based-Projects-Team-5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/bitnami/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Ya'akov Goldberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
