@@ -20,7 +20,7 @@ namespace Breaddit.Controllers
 
         public IActionResult Index()
         {
-            return View("AwesomeIndex");
+            return View();
         }
 
         public IActionResult Privacy()
